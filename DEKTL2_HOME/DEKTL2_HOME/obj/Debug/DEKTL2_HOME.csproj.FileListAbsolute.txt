@@ -1,0 +1,11 @@
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.csprojAssemblyReference.cache
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.frmMonHoc.resources
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.Properties.Resources.resources
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.csproj.GenerateResource.cache
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.csproj.CoreCompileInputs.cache
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\bin\Debug\DEKTL2_HOME.exe.config
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\bin\Debug\DEKTL2_HOME.exe
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\bin\Debug\DEKTL2_HOME.pdb
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.exe
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.pdb
+D:\Lâp trình ứng dụng desktop\phuc 17-12\DEKTL2_HOME\DEKTL2_HOME\obj\Debug\DEKTL2_HOME.QuanLyMonHoc.resources
